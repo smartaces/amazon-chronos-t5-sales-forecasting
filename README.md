@@ -18,4 +18,4 @@ If you liked or found this notebook at all helpful please share it, and simply c
 
 https://www.linkedin.com/in/james-bentley-1b329214/
 
-Disclaimer: This is purely for educational purposes.
+Disclaimer: This is purely for educational purposes, do not use for commercial purposes without permission.
